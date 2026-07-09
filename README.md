@@ -45,3 +45,6 @@ python student_result.py
 ## Author
 
 Amulya
+## Screenshot
+
+![Result Analysis Graph](Result%20Analysis%20Graph.png)
